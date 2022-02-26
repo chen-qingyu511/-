@@ -1,10 +1,4 @@
-### Library.java
 
- 是简单的图书管理系统，只是实现了命令行的交互
-
-### Student.java
-
-实现简单的文件保存
 
 ### Ward System 
 
